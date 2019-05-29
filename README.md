@@ -1,10 +1,6 @@
 # Gene-Checker
 
-ATGC are the four nitrogenous bases that comprises the Deoxyribonucleic Acid (DNA). DNA is a herdity material which carries the traits or characteriatics from parents to offspring.Where ,
-● A stands for Adenine
-● T stands for Thyime
-● G stands for Guanine
-● C stands for Cytosine
+ATGC are the four nitrogenous bases that comprises the Deoxyribonucleic Acid (DNA). DNA is a herdity material which carries the traits or characteriatics from parents to offspring, where  ● A stands for Adenine  ● T stands for Thyime  ● G stands for Guanine  ● C stands for Cytosine
 
 This is a Software Development project on gene sequence, takes input from a fasta file, which gives the following results:
 ● Information about the gene sequence
